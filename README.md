@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![RedTeaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/6b101ed0-04c0-4490-9283-eb61f2efff96.svg)](https://wakatime.com/@6b101ed0-04c0-4490-9283-eb61f2efff96)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
