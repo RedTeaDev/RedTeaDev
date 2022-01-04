@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![RedTeaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 ### :zap: Recent Activity
 
