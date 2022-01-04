@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RedTeaDev/Fabric-Bedrock-Miner/pull/1) in [RedTeaDev/Fabric-Bedrock-Miner](https://github.com/RedTeaDev/Fabric-Bedrock-Miner)
-2. 💪 Opened PR [#1](https://github.com/RedTeaDev/Fabric-Bedrock-Miner/pull/1) in [RedTeaDev/Fabric-Bedrock-Miner](https://github.com/RedTeaDev/Fabric-Bedrock-Miner)
-3. 🗣 Commented on [#5](https://github.com/iMRCx/Skyblock-Fairy-Souls-ESP-Unbaneable-/issues/5) in [iMRCx/Skyblock-Fairy-Souls-ESP-Unbaneable-](https://github.com/iMRCx/Skyblock-Fairy-Souls-ESP-Unbaneable-)
-4. 🗣 Commented on [#63](https://github.com/RedCokeDevelopment/Teapot.py/issues/63) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-5. ❗️ Closed issue [#63](https://github.com/RedCokeDevelopment/Teapot.py/issues/63) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+1. 🎉 Merged PR [#14](https://github.com/RedCokeDevelopment/MCServerPing/pull/14) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+2. 🎉 Merged PR [#6](https://github.com/RedCokeDevelopment/MCServerPing/pull/6) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+3. 🎉 Merged PR [#15](https://github.com/RedCokeDevelopment/MCServerPing/pull/15) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+4. 🎉 Merged PR [#16](https://github.com/RedCokeDevelopment/MCServerPing/pull/16) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+5. ❗️ Closed issue [#8](https://github.com/RedCokeDevelopment/MCServerPing/issues/8) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
 <!--END_SECTION:activity-->
