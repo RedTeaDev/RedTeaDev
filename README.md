@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/RedTeaDev)](https://github.com/RedTeaDev/RedTeaDev)
+[![Created Github Since](https://badges.pufler.dev/years/RedTeaDev)](https://github.com/RedTeaDev/RedTeaDev)
+
 [![RedTeaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
