@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/RedCokeDevelopment/Teapot.py/pull/64) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-2. 🗣 Commented on [#64](https://github.com/RedCokeDevelopment/Teapot.py/issues/64) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-3. 🎉 Merged PR [#14](https://github.com/RedCokeDevelopment/MCServerPing/pull/14) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
-4. 🎉 Merged PR [#6](https://github.com/RedCokeDevelopment/MCServerPing/pull/6) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
-5. 🎉 Merged PR [#15](https://github.com/RedCokeDevelopment/MCServerPing/pull/15) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+1. ❗️ Opened issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
+2. 🎉 Merged PR [#64](https://github.com/RedCokeDevelopment/Teapot.py/pull/64) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+3. 🗣 Commented on [#64](https://github.com/RedCokeDevelopment/Teapot.py/issues/64) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+4. 🎉 Merged PR [#14](https://github.com/RedCokeDevelopment/MCServerPing/pull/14) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+5. 🎉 Merged PR [#6](https://github.com/RedCokeDevelopment/MCServerPing/pull/6) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
 <!--END_SECTION:activity-->
