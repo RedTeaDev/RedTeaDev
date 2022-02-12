@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#51](https://github.com/RedCokeDevelopment/Teapot.py/issues/51) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-2. 🗣 Commented on [#51](https://github.com/RedCokeDevelopment/Teapot.py/issues/51) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-3. ❗️ Opened issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
-4. 🎉 Merged PR [#64](https://github.com/RedCokeDevelopment/Teapot.py/pull/64) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-5. 🗣 Commented on [#64](https://github.com/RedCokeDevelopment/Teapot.py/issues/64) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+1. ❗️ Closed issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
+2. 🗣 Commented on [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
+3. ❗️ Closed issue [#51](https://github.com/RedCokeDevelopment/Teapot.py/issues/51) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+4. 🗣 Commented on [#51](https://github.com/RedCokeDevelopment/Teapot.py/issues/51) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+5. ❗️ Opened issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
 <!--END_SECTION:activity-->
