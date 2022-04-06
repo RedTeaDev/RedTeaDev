@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ( This only shows public activity, i rarely make issue on public repo 😅)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
-2. 🗣 Commented on [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
-3. ❗️ Closed issue [#51](https://github.com/RedCokeDevelopment/Teapot.py/issues/51) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-4. 🗣 Commented on [#51](https://github.com/RedCokeDevelopment/Teapot.py/issues/51) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-5. ❗️ Opened issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
+1. 🎉 Merged PR [#1](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/1) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
+2. 💪 Opened PR [#1](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/1) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
+3. ❗️ Closed issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
+4. 🗣 Commented on [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
+5. ❗️ Closed issue [#51](https://github.com/RedCokeDevelopment/Teapot.py/issues/51) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
 <!--END_SECTION:activity-->
