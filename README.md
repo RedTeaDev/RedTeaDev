@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ( This only shows public activity, i rarely make issue on public repo 😅)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/2) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
-2. 💪 Opened PR [#2](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/2) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
-3. 🎉 Merged PR [#1](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/1) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
-4. 💪 Opened PR [#1](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/1) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
-5. ❗️ Closed issue [#1](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD/issues/1) in [EnhancedPlugins/EnhancedBungeeMOTD](https://github.com/EnhancedPlugins/EnhancedBungeeMOTD)
+1. 🎉 Merged PR [#1](https://github.com/RedTeaDev/NotEnoughUpdates/pull/1) in [RedTeaDev/NotEnoughUpdates](https://github.com/RedTeaDev/NotEnoughUpdates)
+2. 💪 Opened PR [#1](https://github.com/RedTeaDev/NotEnoughUpdates/pull/1) in [RedTeaDev/NotEnoughUpdates](https://github.com/RedTeaDev/NotEnoughUpdates)
+3. 🎉 Merged PR [#2](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/2) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
+4. 💪 Opened PR [#2](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/2) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
+5. 🎉 Merged PR [#1](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/1) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
 <!--END_SECTION:activity-->
