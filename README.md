@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ( This only shows public activity, i rarely make issue on public repo 😅)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RedTeaDev/NotEnoughUpdates/pull/1) in [RedTeaDev/NotEnoughUpdates](https://github.com/RedTeaDev/NotEnoughUpdates)
-2. 💪 Opened PR [#1](https://github.com/RedTeaDev/NotEnoughUpdates/pull/1) in [RedTeaDev/NotEnoughUpdates](https://github.com/RedTeaDev/NotEnoughUpdates)
-3. 🎉 Merged PR [#2](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/2) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
-4. 💪 Opened PR [#2](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/2) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
-5. 🎉 Merged PR [#1](https://github.com/RedCokeDevelopment/Lavalink-Client/pull/1) in [RedCokeDevelopment/Lavalink-Client](https://github.com/RedCokeDevelopment/Lavalink-Client)
+1. 🎉 Merged PR [#65](https://github.com/RedCokeDevelopment/Teapot.py/pull/65) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+2. 🗣 Commented on [#65](https://github.com/RedCokeDevelopment/Teapot.py/issues/65) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+3. ❌ Reopened PR [#65](https://github.com/RedCokeDevelopment/Teapot.py/pull/65) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+4. ❌ Closed PR [#65](https://github.com/RedCokeDevelopment/Teapot.py/pull/65) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+5. 🎉 Merged PR [#1](https://github.com/RedTeaDev/NotEnoughUpdates/pull/1) in [RedTeaDev/NotEnoughUpdates](https://github.com/RedTeaDev/NotEnoughUpdates)
 <!--END_SECTION:activity-->
