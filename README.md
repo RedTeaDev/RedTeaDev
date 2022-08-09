@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ( This only shows public activity, i rarely make issue on public repo 😅)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/RedCokeDevelopment/MCServerPing/pull/19) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
-2. ❗️ Opened issue [#197](https://github.com/Fallen-Breath/MCDReforged/issues/197) in [Fallen-Breath/MCDReforged](https://github.com/Fallen-Breath/MCDReforged)
-3. ❗️ Opened issue [#18](https://github.com/RedCokeDevelopment/MCServerPing/issues/18) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
-4. 🎉 Merged PR [#65](https://github.com/RedCokeDevelopment/Teapot.py/pull/65) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-5. 🗣 Commented on [#65](https://github.com/RedCokeDevelopment/Teapot.py/issues/65) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
+1. ❗️ Closed issue [#18](https://github.com/RedCokeDevelopment/MCServerPing/issues/18) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+2. ❗️ Closed issue [#18](https://github.com/RedCokeDevelopment/MCServerPing/issues/18) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+3. 🎉 Merged PR [#19](https://github.com/RedCokeDevelopment/MCServerPing/pull/19) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+4. 💪 Opened PR [#19](https://github.com/RedCokeDevelopment/MCServerPing/pull/19) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+5. ❗️ Opened issue [#197](https://github.com/Fallen-Breath/MCDReforged/issues/197) in [Fallen-Breath/MCDReforged](https://github.com/Fallen-Breath/MCDReforged)
 <!--END_SECTION:activity-->
