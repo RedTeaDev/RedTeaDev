@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 ### :zap: Recent Activity
-( This only shows public activity, i rarely make issue on public repo 😅)
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#18](https://github.com/RedCokeDevelopment/MCServerPing/issues/18) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
