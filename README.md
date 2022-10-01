@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/3) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-2. 🎉 Merged PR [#2](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/2) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-3. 🎉 Merged PR [#1](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/1) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-4. 💪 Opened PR [#67](https://github.com/RedCokeDevelopment/Teapot.py/pull/67) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
-5. ❗️ Closed issue [#18](https://github.com/RedCokeDevelopment/MCServerPing/issues/18) in [RedCokeDevelopment/MCServerPing](https://github.com/RedCokeDevelopment/MCServerPing)
+1. 🎉 Merged PR [#4](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/4) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
+2. 🎉 Merged PR [#3](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/3) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
+3. 🎉 Merged PR [#2](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/2) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
+4. 🎉 Merged PR [#1](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/1) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
+5. 💪 Opened PR [#67](https://github.com/RedCokeDevelopment/Teapot.py/pull/67) in [RedCokeDevelopment/Teapot.py](https://github.com/RedCokeDevelopment/Teapot.py)
 <!--END_SECTION:activity-->
