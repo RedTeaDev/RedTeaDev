@@ -26,11 +26,4 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/6) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-2. ❗️ Opened issue [#7](https://github.com/RedCokeDevelopment/HKTransportETAApp/issues/7) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-3. 🎉 Merged PR [#4](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/4) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-4. 🎉 Merged PR [#3](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/3) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-5. 🎉 Merged PR [#2](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/2) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
-<!--END_SECTION:activity-->
+
