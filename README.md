@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 [![RedTeaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
-### :zap: Recent Activity
 
+### This week i spend my time on
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/RedCokeDevelopment/HKTransportETAApp/pull/6) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
 2. ❗️ Opened issue [#7](https://github.com/RedCokeDevelopment/HKTransportETAApp/issues/7) in [RedCokeDevelopment/HKTransportETAApp](https://github.com/RedCokeDevelopment/HKTransportETAApp)
