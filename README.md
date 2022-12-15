@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 🏆 454 Contributions in the Year 2022
  > 
-> 📦 159.3 kB Used in GitHub's Storage 
+> 📦 159.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,7 +92,7 @@ TypeScript               4 repos             ████░░░░░░░�
 
 
 
- Last Updated on 15/12/2022 22:14:21 UTC
+ Last Updated on 15/12/2022 23:15:48 UTC
 <!--END_SECTION:waka-->
 
 
