@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,7 +89,7 @@ TypeScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 22/02/2023 21:13:01 UTC
+ Last Updated on 22/02/2023 22:12:34 UTC
 <!--END_SECTION:waka-->
 
 
