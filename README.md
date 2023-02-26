@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -88,7 +88,7 @@ TypeScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 26/02/2023 15:13:37 UTC
+ Last Updated on 26/02/2023 16:18:20 UTC
 <!--END_SECTION:waka-->
 
 
