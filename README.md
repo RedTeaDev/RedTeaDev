@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C312%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 157.0 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2023
+> 🏆 106 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,15 +67,15 @@ Sunday                   468 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     9 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
-C#                       5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-TypeScript               5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Text                     3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Java                     9 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.86 % 
+C#                       5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+TypeScript               4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Text                     3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-IntelliJ                 14 hrs 1 min        ██████████████░░░░░░░░░░░   56.38 % 
-VS Code                  10 hrs 50 mins      ███████████░░░░░░░░░░░░░░   43.62 % 
+IntelliJ                 14 hrs 19 mins      ███████████████░░░░░░░░░░   58.65 % 
+VS Code                  10 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2023 18:20:31 UTC
+ Last Updated on 03/04/2023 01:23:25 UTC
 <!--END_SECTION:waka-->
 
 
