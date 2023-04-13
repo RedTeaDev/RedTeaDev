@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,15 +67,15 @@ Sunday                   479 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     13 hrs 6 mins       ███████████████████░░░░░░   76.78 % 
-YAML                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Properties               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Java                     13 hrs 17 mins      ███████████████████░░░░░░   77.54 % 
+YAML                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Properties               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-ANTLR v4 grammar file    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+ANTLR v4 grammar file    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-IntelliJ                 16 hrs 48 mins      █████████████████████████   98.41 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+IntelliJ                 16 hrs 58 mins      █████████████████████████   99.11 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2023 18:22:58 UTC
+ Last Updated on 13/04/2023 01:23:12 UTC
 <!--END_SECTION:waka-->
 
 
