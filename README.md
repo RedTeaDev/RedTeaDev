@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 > 📦 157.1 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2023
+> 🏆 129 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
@@ -81,17 +81,17 @@ VS Code                  32 mins             █░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     14 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
-Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Java                     14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 18/04/2023 06:24:07 UTC
+ Last Updated on 18/04/2023 12:36:19 UTC
 <!--END_SECTION:waka-->
 
 
