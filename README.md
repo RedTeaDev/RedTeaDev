@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C427%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 > 📦 157.1 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2023
+> 🏆 146 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
@@ -67,15 +67,15 @@ Sunday                   582 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
-TypeScript               5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-Other                    2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-XML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-ANTLR v4 grammar file    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Java                     6 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+TypeScript               4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Markdown                 4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+XML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 33 mins      ████████████████████████░   95.06 % 
-IntelliJ                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+VS Code                  18 hrs 45 mins      ████████████████████████░   95.87 % 
+IntelliJ                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2023 18:22:13 UTC
+ Last Updated on 20/05/2023 01:24:59 UTC
 <!--END_SECTION:waka-->
 
 
