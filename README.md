@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C452%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,10 +67,15 @@ Sunday                   685 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 29 mins       █████████████████████████   100.00 % 
+Markdown                 3 hrs 29 mins       ████████████████████░░░░░   81.52 % 
+Java                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Properties               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Groovy                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Gradle                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       ████████████████████░░░░░   81.87 % 
+IntelliJ                 46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 ```
 
 **I Mostly Code in Java** 
@@ -86,7 +91,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2023 18:21:03 UTC
+ Last Updated on 04/06/2023 02:05:10 UTC
 <!--END_SECTION:waka-->
 
 
