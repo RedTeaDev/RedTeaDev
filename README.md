@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C542%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -67,15 +67,15 @@ Sunday                   687 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     15 hrs 26 mins      █████████████████████░░░░   83.44 % 
-XML                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-GitIgnore file           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-HTML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Java Template Engine File20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Java                     16 hrs 34 mins      █████████████████████░░░░   83.08 % 
+XML                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+GitIgnore file           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Java Template Engine File20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-IntelliJ                 14 hrs 4 mins       ███████████████████░░░░░░   76.07 % 
-VS Code                  4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+IntelliJ                 19 hrs 31 mins      ████████████████████████░   97.85 % 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2023 18:24:54 UTC
+ Last Updated on 04/07/2023 01:56:11 UTC
 <!--END_SECTION:waka-->
 
 
