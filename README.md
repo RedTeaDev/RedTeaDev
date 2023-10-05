@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,17 +80,17 @@ IntelliJ                 33 hrs 22 mins      ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Java                     15 repos            ██████████░░░░░░░░░░░░░░░   40.54 % 
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 05/10/2023 12:36:58 UTC
+ Last Updated on 05/10/2023 18:24:57 UTC
 <!--END_SECTION:waka-->
 
 
