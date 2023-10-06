@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C726%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 157.3 kB Used in GitHub's Storage 
+> 📦 157.2 kB Used in GitHub's Storage 
  > 
 > 🏆 221 Contributions in the Year 2023
  > 
@@ -67,14 +67,15 @@ Sunday                   997 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     22 hrs 14 mins      █████████████████░░░░░░░░   66.67 % 
-HTML                     4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-SQL                      3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Markdown                 1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Java Properties          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Java                     21 hrs 37 mins      █████████████████████░░░░   82.53 % 
+TypeScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Svelte                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Java Properties          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-IntelliJ                 33 hrs 22 mins      █████████████████████████   100.00 % 
+IntelliJ                 23 hrs 38 mins      ███████████████████████░░   90.19 % 
+VS Code                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +91,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2023 18:24:57 UTC
+ Last Updated on 06/10/2023 01:15:18 UTC
 <!--END_SECTION:waka-->
 
 
