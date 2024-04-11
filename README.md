@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C144%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -89,7 +87,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 12:33:19 UTC
+ Last Updated on 11/04/2024 18:22:26 UTC
 <!--END_SECTION:waka-->
 
 
