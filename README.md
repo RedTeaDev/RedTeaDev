@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C311%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C311%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 159.6 kB Used in GitHub's Storage 
  > 
-> 🏆 256 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,15 +67,15 @@ Sunday                   650 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
-GitIgnore file           4 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-PowerShell               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+PowerShell               2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
+Python                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+TypeScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+XML                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Java                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 
 🔥 Editors: 
-Intellijidea             14 hrs 7 mins       ██████████████████░░░░░░░   72.74 % 
-VS Code                  5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+VS Code                  5 hrs 17 mins       █████████████████░░░░░░░░   67.48 % 
+Intellijidea             2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2024 18:25:38 UTC
+ Last Updated on 03/06/2024 01:22:50 UTC
 <!--END_SECTION:waka-->
 
 
