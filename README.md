@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,7 +67,7 @@ Sunday                   659 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.69 % 
+Python                   4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
 Java                     3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
 PowerShell               2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
@@ -91,7 +91,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 18:27:38 UTC
+ Last Updated on 15/06/2024 01:22:50 UTC
 <!--END_SECTION:waka-->
 
 
