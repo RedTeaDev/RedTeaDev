@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C362%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 159.6 kB Used in GitHub's Storage 
- > 
-> 🏆 327 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,15 +65,15 @@ Sunday                   761 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 4 mins       █████████████░░░░░░░░░░░░   51.56 % 
-Java                     5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-XML                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Go                       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+TypeScript               10 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.47 % 
+Java                     7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.54 % 
+XML                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Go                       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 54 mins      █████████████████░░░░░░░░   66.02 % 
-IntelliJ IDEA            6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.98 % 
+VS Code                  12 hrs 34 mins      ███████████████░░░░░░░░░░   59.25 % 
+IntelliJ IDEA            8 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +89,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2024 18:29:25 UTC
+ Last Updated on 11/07/2024 01:26:16 UTC
 <!--END_SECTION:waka-->
 
 
