@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C546%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 159.7 kB Used in GitHub's Storage 
- > 
-> 🏆 456 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,15 +41,15 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                993 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-🌆 Daytime                1927 commits        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+🌞 Morning                994 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+🌆 Daytime                1927 commits        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
 🌃 Evening                2032 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 🌙 Night                  1924 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1174 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Monday                   1175 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 Tuesday                  1350 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 Wednesday                670 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 Thursday                 614 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
@@ -65,11 +65,10 @@ Sunday                   902 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Svelte                   5 hrs 6 mins        █████████████████████████   99.64 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -85,7 +84,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 18:29:07 UTC
+ Last Updated on 09/09/2024 01:42:32 UTC
 <!--END_SECTION:waka-->
 
 
