@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C571%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C577%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.3 kB Used in GitHub's Storage 
- > 
-> 🏆 486 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,14 +65,14 @@ Sunday                   902 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 21 mins      ██████████████████░░░░░░░   70.84 % 
-Bash                     4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Java                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Bash                     9 hrs 51 mins       █████████████░░░░░░░░░░░░   53.29 % 
+Markdown                 7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.27 % 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 18:30:04 UTC
+ Last Updated on 27/09/2024 01:44:35 UTC
 <!--END_SECTION:waka-->
 
 
