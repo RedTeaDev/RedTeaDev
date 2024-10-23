@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C649%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.3 kB Used in GitHub's Storage 
  > 
-> 🏆 530 Contributions in the Year 2024
+> 🏆 532 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,17 +43,17 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1017 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌞 Morning                1018 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 🌆 Daytime                1975 commits        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-🌃 Evening                2075 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-🌙 Night                  1968 commits        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌃 Evening                2075 commits        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+🌙 Night                  1969 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1206 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 Tuesday                  1377 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Wednesday                687 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Wednesday                689 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 Thursday                 637 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 Friday                   940 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 Saturday                 1279 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
@@ -88,7 +90,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 18:32:03 UTC
+ Last Updated on 23/10/2024 01:45:04 UTC
 <!--END_SECTION:waka-->
 
 
