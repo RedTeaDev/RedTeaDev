@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C704%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C721%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 159.7 kB Used in GitHub's Storage 
  > 
-> 🏆 567 Contributions in the Year 2024
+> 🏆 571 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,44 +40,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-🌆 Daytime                1984 commits        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-🌃 Evening                2079 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-🌙 Night                  1983 commits        ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1208 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Tuesday                  1382 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Wednesday                696 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Thursday                 642 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Friday                   939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 1290 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Sunday                   911 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     12 hrs 21 mins      ████████████████░░░░░░░░░   64.81 % 
-Markdown                 4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Dart                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-TOML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-
-🔥 Editors: 
-IntelliJ IDEA            14 hrs 54 mins      ████████████████████░░░░░   78.20 % 
-VS Code                  4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -91,7 +53,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 18:27:55 UTC
+ Last Updated on 10/11/2024 01:48:53 UTC
 <!--END_SECTION:waka-->
 
 
