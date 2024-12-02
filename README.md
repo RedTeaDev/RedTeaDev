@@ -24,11 +24,15 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C781%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 160.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 600 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,15 +67,15 @@ Sunday                   915 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.50 % 
-Java                     2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Bash                     2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-JSON                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Python                   6 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.75 % 
+Bash                     2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+JSON                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Java                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 46 mins      █████████████████████░░░░   83.18 % 
-IntelliJ IDEA            2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+VS Code                  11 hrs 4 mins       █████████████████████░░░░   82.32 % 
+IntelliJ IDEA            2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +91,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 18:31:25 UTC
+ Last Updated on 02/12/2024 01:56:34 UTC
 <!--END_SECTION:waka-->
 
 
