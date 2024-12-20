@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C818%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C820%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,14 +67,15 @@ Sunday                   928 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Markdown                 4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Dart                     3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Prisma                   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Java                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+TypeScript               4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Java                     4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Prisma                   3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Python                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 21 mins      ███████████████████████░░   91.87 % 
+IntelliJ IDEA            1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +91,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2024 18:33:01 UTC
+ Last Updated on 20/12/2024 01:46:42 UTC
 <!--END_SECTION:waka-->
 
 
