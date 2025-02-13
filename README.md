@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C999%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C001%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 160.6 kB Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2025
+> 🏆 137 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,14 +67,14 @@ Sunday                   976 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.49 % 
-Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-HTML                     2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Java                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Python                   4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.03 % 
+Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+HTML                     2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+TypeScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Java                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +90,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2025 18:32:45 UTC
+ Last Updated on 13/02/2025 01:45:50 UTC
 <!--END_SECTION:waka-->
 
 
