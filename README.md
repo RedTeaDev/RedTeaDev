@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C007%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C007%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -67,14 +67,14 @@ Sunday                   976 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Svelte                   4 hrs               █████████████░░░░░░░░░░░░   50.96 % 
-Java                     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Python                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Gettext Catalog          49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Svelte                   4 hrs 1 min         █████████████░░░░░░░░░░░░   51.12 % 
+Java                     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Python                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Gettext Catalog          49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +90,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2025 18:33:09 UTC
+ Last Updated on 19/02/2025 01:46:18 UTC
 <!--END_SECTION:waka-->
 
 
