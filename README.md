@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C266%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C266%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,6 +38,43 @@ Here are some ideas to get you started:
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1098 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+🌆 Daytime                1795 commits        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌃 Evening                2196 commits        ████████░░░░░░░░░░░░░░░░░   30.28 % 
+🌙 Night                  2164 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Tuesday                  1467 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Wednesday                701 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Thursday                 770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Friday                   979 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 1172 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Sunday                   910 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Svelte                   4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
+Markdown                 3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+PHP                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+TypeScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -51,7 +88,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2025 02:02:36 UTC
+ Last Updated on 06/06/2025 06:38:57 UTC
 <!--END_SECTION:waka-->
 
 
