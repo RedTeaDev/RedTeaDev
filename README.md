@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C302%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C302%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 160.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 481 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,7 +45,7 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning                1111 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 🌆 Daytime                1829 commits        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌃 Evening                2255 commits        ████████░░░░░░░░░░░░░░░░░   30.51 % 
+🌃 Evening                2256 commits        ████████░░░░░░░░░░░░░░░░░   30.52 % 
 🌙 Night                  2195 commits        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -52,7 +54,7 @@ Here are some ideas to get you started:
 Monday                   1286 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 Tuesday                  1493 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
 Wednesday                713 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Thursday                 778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Thursday                 779 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 Friday                   1003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 Saturday                 1206 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 Sunday                   911 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
@@ -90,7 +92,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2025 06:38:35 UTC
+ Last Updated on 19/06/2025 12:54:47 UTC
 <!--END_SECTION:waka-->
 
 
