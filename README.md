@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C427%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C423%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 160.8 kB Used in GitHub's Storage 
- > 
-> 🏆 598 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +44,17 @@ Here are some ideas to get you started:
 🌞 Morning                1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 🌆 Daytime                1896 commits        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 🌃 Evening                2314 commits        ████████░░░░░░░░░░░░░░░░░   30.28 % 
-🌙 Night                  2287 commits        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌙 Night                  2289 commits        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1331 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Monday                   1333 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 Tuesday                  1552 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 Wednesday                712 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Thursday                 834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 Friday                   1028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Saturday                 1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 Sunday                   934 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 ```
 
@@ -91,7 +89,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2025 13:13:03 UTC
+ Last Updated on 27/07/2025 18:54:39 UTC
 <!--END_SECTION:waka-->
 
 
