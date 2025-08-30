@@ -24,13 +24,11 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C471%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.8 kB Used in GitHub's Storage 
+> 📦 160.9 kB Used in GitHub's Storage 
  > 
 > 🏆 659 Contributions in the Year 2025
  > 
@@ -91,7 +89,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 13:07:28 UTC
+ Last Updated on 30/08/2025 18:51:46 UTC
 <!--END_SECTION:waka-->
 
 
