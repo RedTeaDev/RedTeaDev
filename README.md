@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C601%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C609%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -67,15 +67,15 @@ Sunday                   942 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     21 hrs 25 mins      ████████████████░░░░░░░░░   63.27 % 
-Markdown                 4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Svelte                   3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Java                     12 hrs 52 mins      ██████████████░░░░░░░░░░░   56.14 % 
+Markdown                 5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Python                   2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+XML                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            27 hrs 24 mins      ████████████████████░░░░░   80.97 % 
-VS Code                  6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+IntelliJ IDEA            15 hrs 35 mins      █████████████████░░░░░░░░   67.96 % 
+VS Code                  7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025 19:03:40 UTC
+ Last Updated on 21/10/2025 02:25:16 UTC
 <!--END_SECTION:waka-->
 
 
