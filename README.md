@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C734%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C738%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -67,15 +67,15 @@ Sunday                   963 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 hrs 56 mins      █████████████░░░░░░░░░░░░   53.53 % 
-TypeScript               9 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Java                     5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Prisma                   5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-HTML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Python                   28 hrs 5 mins       ██████████████░░░░░░░░░░░   55.69 % 
+TypeScript               7 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Java                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Prisma                   5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+HTML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 56 mins      ███████████████████████░░   90.67 % 
-IntelliJ IDEA            4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+VS Code                  44 hrs 55 mins      ██████████████████████░░░   89.07 % 
+IntelliJ IDEA            5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 19:08:58 UTC
+ Last Updated on 28/11/2025 02:27:04 UTC
 <!--END_SECTION:waka-->
 
 
