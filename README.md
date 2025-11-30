@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C741%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C759%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.0 kB Used in GitHub's Storage 
+> 📦 160.9 kB Used in GitHub's Storage 
  > 
 > 🏆 926 Contributions in the Year 2025
  > 
@@ -67,15 +67,15 @@ Sunday                   1001 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   29 hrs 10 mins      ████████████████░░░░░░░░░   65.80 % 
-Java                     5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Prisma                   5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Text                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-HTML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Python                   33 hrs 14 mins      █████████████████░░░░░░░░   67.96 % 
+Java                     5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Prisma                   5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Text                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+HTML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 1 min        █████████████████████░░░░   83.50 % 
-IntelliJ IDEA            7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+VS Code                  41 hrs 19 mins      █████████████████████░░░░   84.48 % 
+IntelliJ IDEA            7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +91,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2025 02:40:56 UTC
+ Last Updated on 30/11/2025 07:07:14 UTC
 <!--END_SECTION:waka-->
 
 
