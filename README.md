@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C945%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C945%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,44 +40,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌆 Daytime                1693 commits        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-🌃 Evening                2115 commits        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-🌙 Night                  2182 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Tuesday                  1246 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Wednesday                766 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Thursday                 854 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Friday                   1025 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Saturday                 1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Sunday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Groovy                   2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-Java                     1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-TypeScript               1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-
-🔥 Editors: 
-IntelliJ IDEA            5 hrs 45 mins       ███████████████████░░░░░░   75.57 % 
-VS Code                  1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -91,7 +53,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2026 19:31:14 UTC
+ Last Updated on 21/01/2026 02:57:15 UTC
 <!--END_SECTION:waka-->
 
 
