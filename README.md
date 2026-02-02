@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C994%20hrs%2028%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -65,15 +67,15 @@ Sunday                   1000 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 59 mins      ████████████████░░░░░░░░░   64.47 % 
-JSON                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Prisma                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Python                   17 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.88 % 
+JSON                     6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Markdown                 5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Prisma                   3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 24 mins      ████████████████████████░   96.41 % 
-IntelliJ IDEA            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+VS Code                  35 hrs 45 mins      ████████████████████████░   97.42 % 
+IntelliJ IDEA            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,7 +91,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 19:19:20 UTC
+ Last Updated on 02/02/2026 03:22:39 UTC
 <!--END_SECTION:waka-->
 
 
