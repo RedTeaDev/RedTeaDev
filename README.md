@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C037%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C039%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 161.0 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2026
+> 🏆 91 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,44 +40,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-🌆 Daytime                1656 commits        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-🌃 Evening                2089 commits        ████████░░░░░░░░░░░░░░░░░   30.07 % 
-🌙 Night                  2111 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1077 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Tuesday                  1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Wednesday                743 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Thursday                 829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Friday                   1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Saturday                 1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Sunday                   963 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JSON                     3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Other                    2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Bash                     2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-TypeScript               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 12 mins      █████████████████████████   100.00 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -91,7 +53,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 19:43:40 UTC
+ Last Updated on 18/02/2026 03:24:21 UTC
 <!--END_SECTION:waka-->
 
 
