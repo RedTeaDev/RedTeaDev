@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C177%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C180%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.8 kB Used in GitHub's Storage 
+> 📦 161.9 kB Used in GitHub's Storage 
  > 
 > 🏆 243 Contributions in the Year 2026
  > 
@@ -67,14 +67,14 @@ Sunday                   994 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 6 mins        █████████████░░░░░░░░░░░░   51.92 % 
-Markdown                 4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Python                   10 hrs 25 mins      █████████████░░░░░░░░░░░░   51.96 % 
+Markdown                 4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+YAML                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+PowerShell               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2026 19:54:19 UTC
+ Last Updated on 03/04/2026 03:39:30 UTC
 <!--END_SECTION:waka-->
 
 
