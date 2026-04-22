@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C274%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C273%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -81,17 +81,17 @@ OpenCode                 14 hrs 54 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Svelte                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Svelte                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 22/04/2026 14:52:45 UTC
+ Last Updated on 22/04/2026 20:14:12 UTC
 <!--END_SECTION:waka-->
 
 
