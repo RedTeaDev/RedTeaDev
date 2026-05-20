@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C410%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C411%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,44 +40,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1180 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-🌆 Daytime                1743 commits        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-🌃 Evening                2163 commits        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-🌙 Night                  2217 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1135 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Tuesday                  1245 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Thursday                 856 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Friday                   1038 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 1225 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Sunday                   1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   9 hrs 50 mins       ███████████████░░░░░░░░░░   60.05 % 
-Other                    2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-YAML                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Svelte                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 19 mins       ██████████████░░░░░░░░░░░   56.85 % 
-OpenCode                 7 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.15 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -91,7 +53,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 20:58:15 UTC
+ Last Updated on 20/05/2026 05:08:08 UTC
 <!--END_SECTION:waka-->
 
 
