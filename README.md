@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C471%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C471%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 162.6 kB Used in GitHub's Storage 
+> 📦 162.7 kB Used in GitHub's Storage 
  > 
-> 🏆 556 Contributions in the Year 2026
+> 🏆 558 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,6 +40,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1183 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌆 Daytime                1746 commits        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+🌃 Evening                2166 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌙 Night                  2236 commits        ████████░░░░░░░░░░░░░░░░░   30.50 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1137 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Tuesday                  1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Wednesday                796 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Thursday                 865 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Friday                   1034 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Saturday                 1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Sunday                   1008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   29 hrs 4 mins       ██████████████████░░░░░░░   73.13 % 
+Text                     3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Markdown                 2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TypeScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Svelte                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+
+🔥 Editors: 
+VS Code                  38 hrs 38 mins      ████████████████████████░   97.18 % 
+Opencode Cli             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+OpenCode                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -53,7 +92,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2026 22:44:03 UTC
+ Last Updated on 02/06/2026 05:43:41 UTC
 <!--END_SECTION:waka-->
 
 
