@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C574%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C578%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,47 +40,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                922 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-🌆 Daytime                1234 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-🌃 Evening                1426 commits        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-🌙 Night                  1659 commits        ████████░░░░░░░░░░░░░░░░░   31.65 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   876 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Tuesday                  927 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Wednesday                565 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Thursday                 633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Friday                   766 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 907 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Sunday                   567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               20 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.17 % 
-Other                    11 hrs 28 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Svelte                   10 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Markdown                 5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-JSON                     4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-
-🔥 Editors: 
-VS Code                  37 hrs 21 mins      ██████████████░░░░░░░░░░░   55.13 % 
-Opencode Cli             12 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-OpenCode                 9 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Claude Code              8 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -94,7 +53,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 21:05:34 UTC
+ Last Updated on 20/06/2026 05:18:26 UTC
 <!--END_SECTION:waka-->
 
 
