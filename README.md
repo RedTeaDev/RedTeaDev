@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C971%20hrs%2043%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -65,16 +67,16 @@ Sunday                   594 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   31 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   39.27 % 
-Markdown                 20 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-TypeScript               11 hrs 21 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-JSON                     4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Image (png)              4 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Python                   35 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.83 % 
+Markdown                 17 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+TypeScript               6 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+JSON                     5 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Image (png)              4 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Opencode Cli             45 hrs 6 mins       ██████████████░░░░░░░░░░░   55.68 % 
-OpenCode                 24 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   30.70 % 
-VS Code                  11 hrs 1 min        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Opencode Cli             38 hrs 45 mins      ████████████░░░░░░░░░░░░░   49.28 % 
+OpenCode                 27 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.47 % 
+VS Code                  11 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +92,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:41:10 UTC
+ Last Updated on 25/07/2026 03:22:12 UTC
 <!--END_SECTION:waka-->
 
 
