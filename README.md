@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C969%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C984%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,16 +67,16 @@ Sunday                   595 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   35 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.83 % 
-Markdown                 17 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-TypeScript               6 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     5 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Image (png)              4 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Python                   37 hrs 20 mins      ████████████░░░░░░░░░░░░░   47.98 % 
+Markdown                 14 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+TypeScript               5 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+JSON                     5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Image (png)              4 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-Opencode Cli             38 hrs 45 mins      ████████████░░░░░░░░░░░░░   49.28 % 
-OpenCode                 27 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.47 % 
-VS Code                  11 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Opencode Cli             37 hrs 8 mins       ████████████░░░░░░░░░░░░░   47.72 % 
+OpenCode                 29 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.81 % 
+VS Code                  11 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:19:15 UTC
+ Last Updated on 26/07/2026 03:36:02 UTC
 <!--END_SECTION:waka-->
 
 
