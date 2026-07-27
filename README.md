@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C003%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C907%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-687%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -79,6 +81,32 @@ OpenCode                 30 hrs 57 mins      ██████████░�
 VS Code                  8 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 72 hrs 13 mins (93.26%)
+
+✍️ 24,968 lines written by AI, 325 lines written by hand (98.72% AI-written)
+
+🔤 23,061,803 Input Tokens, 1,330,553 Output Tokens
+
+💵 $130.83 Estimated AI Cost This Week
+
+🧠 119 AI Sessions, 531 AI Prompts
+
+GPT                      20,797 lines        ████████████████████░░░░░   78.60 % 
+Deepseek                 4,454 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Glm                      1,186 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Opencode-Cli             21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.72% of written lines came from AI
+📄 Detailed Prompter — average 1,454 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.56% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -92,7 +120,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:51:57 UTC
+ Last Updated on 27/07/2026 19:45:32 UTC
 <!--END_SECTION:waka-->
 
 
