@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C079%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C093%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-866%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-879%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -69,43 +69,43 @@ Sunday                   1000 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   30 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.93 % 
-TypeScript               13 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Markdown                 12 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Other                    4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Svelte                   3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Python                   30 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.58 % 
+Markdown                 17 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TypeScript               16 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Other                    4 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Svelte                   4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-OpenCode                 46 hrs 5 mins       █████████████████░░░░░░░░   67.74 % 
-Opencode Cli             17 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-VS Code                  3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Claude Code              29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+OpenCode                 55 hrs 10 mins      █████████████████░░░░░░░░   69.32 % 
+Opencode Cli             17 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+VS Code                  5 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Claude Code              51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 64 hrs 50 mins (95.3%)
+⏱ AI Coding Time: 75 hrs 9 mins (94.43%)
 
-✍️ 21,642 lines written by AI, 35 lines written by hand (99.84% AI-written)
+✍️ 38,616 lines written by AI, 50 lines written by hand (99.87% AI-written)
 
-🔤 57,227,614 Input Tokens, 3,864,302 Output Tokens
+🔤 64,808,029 Input Tokens, 5,537,317 Output Tokens
 
-💵 $2487.57 Estimated AI Cost This Week
+💵 $4908.07 Estimated AI Cost This Week
 
-🧠 151 AI Sessions, 393 AI Prompts
+🧠 195 AI Sessions, 556 AI Prompts
 
-Deepseek                 12,817 lines        ███████████████████░░░░░░   77.22 % 
-GPT                      2,548 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Glm                      1,234 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Deepseek                 27,885 lines        ██████████████████████░░░   88.06 % 
+GPT                      2,548 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Glm                      1,234 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📄 Detailed Prompter — average 809 characters per prompt
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 1,030 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:39:34 UTC
+ Last Updated on 17/08/2026 01:44:06 UTC
 <!--END_SECTION:waka-->
 
 
