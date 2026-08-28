@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C203%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C216%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-988%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C002%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -69,42 +69,42 @@ Sunday                   963 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   48 hrs 8 mins       █████████████░░░░░░░░░░░░   52.95 % 
-TypeScript               17 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Markdown                 12 hrs 30 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-JSON                     3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Svelte                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Python                   54 hrs 58 mins      ██████████████░░░░░░░░░░░   57.72 % 
+TypeScript               12 hrs 12 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Markdown                 11 hrs 4 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JSON                     5 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other                    4 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-OpenCode                 68 hrs 45 mins      ███████████████████░░░░░░   75.65 % 
-Opencode Cli             15 hrs 54 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-VS Code                  3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Claude Code              3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+OpenCode                 74 hrs 56 mins      ████████████████████░░░░░   78.68 % 
+Claude Code              9 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+VS Code                  5 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Opencode Cli             5 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 89 hrs 5 mins (98.01%)
+⏱ AI Coding Time: 90 hrs 58 mins (95.53%)
 
-✍️ 49,773 lines written by AI, 961 lines written by hand (98.11% AI-written)
+✍️ 52,891 lines written by AI, 2,325 lines written by hand (95.79% AI-written)
 
-🔤 174,739,834 Input Tokens, 5,177,211 Output Tokens
+🔤 167,486,325 Input Tokens, 3,915,689 Output Tokens
 
-💵 $3743.68 Estimated AI Cost This Week
+💵 $3915.91 Estimated AI Cost This Week
 
-🧠 212 AI Sessions, 846 AI Prompts
+🧠 197 AI Sessions, 813 AI Prompts
 
-Opencode-Cli             31,690 lines        ███████████████████░░░░░░   76.07 % 
-GPT                      7,681 lines         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Mimo                     1,581 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Deepseek                 709 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Opencode-Cli             38,402 lines        ██████████████████████░░░   86.34 % 
+Mimo                     3,244 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+GPT                      2,124 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Deepseek                 709 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.11% of written lines came from AI
-📄 Detailed Prompter — average 749 characters per prompt
+🤖 AI-Driven — 95.79% of written lines came from AI
+📄 Detailed Prompter — average 789 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.22% of changed lines were hand-edited
+🚀 High AI Trust — 4.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 22:10:36 UTC
+ Last Updated on 28/08/2026 10:58:19 UTC
 <!--END_SECTION:waka-->
 
 
