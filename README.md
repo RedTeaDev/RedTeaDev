@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a CS student who likes researching how things work,
+building software, and occasionally going way too deep into
+some random technical problem. I'm mainly interested in working on AI (NLP), BGP network.
+
+----
+
 <!--
 **RedTeaDev/RedTeaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +23,9 @@ Here are some ideas to get you started:
 
 <!--
 [![wakatime](https://wakatime.com/badge/user/6b101ed0-04c0-4490-9283-eb61f2efff96.svg)](https://wakatime.com/@6b101ed0-04c0-4490-9283-eb61f2efff96)
+[![RedTeaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTeaDev\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 
-[![RedTeaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTeaDev\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
