@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C385%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C399%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C180%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C194%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 > 📦 169.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,328 Contributions in the Year 2026
+> 🏆 1,329 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,72 +48,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1652 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-🌆 Daytime                1822 commits        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-🌃 Evening                1905 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-🌙 Night                  2862 commits        █████████░░░░░░░░░░░░░░░░   34.73 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1311 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Tuesday                  1504 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Wednesday                1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Thursday                 1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Friday                   1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 1279 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Sunday                   1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     13 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Python                   11 hrs 8 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Markdown                 8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Svelte                   8 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-TypeScript               8 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-
-🔥 Editors: 
-OpenCode                 28 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.55 % 
-VS Code                  21 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Opencode Cli             15 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Codex Vscode             8 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-IntelliJ IDEA            4 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 74 hrs 39 mins (96.43%)
-
-✍️ 82,334 lines written by AI, 600 lines written by hand (99.28% AI-written)
-
-🔤 41,592,008 Input Tokens, 6,702,367 Output Tokens
-
-💵 $1586.06 Estimated AI Cost This Week
-
-🧠 139 AI Sessions, 583 AI Prompts
-
-Opencode-Cli             30,576 lines        ███████████████████████░░   91.47 % 
-GPT                      2,669 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Deepseek                 179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.28% of written lines came from AI
-📄 Detailed Prompter — average 1,122 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.8% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -127,7 +61,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 16:39:14 UTC
+ Last Updated on 16/09/2026 21:10:54 UTC
 <!--END_SECTION:waka-->
 
 
