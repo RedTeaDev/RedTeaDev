@@ -48,6 +48,71 @@ Here are some ideas to get you started:
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1652 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌆 Daytime                1822 commits        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌃 Evening                1905 commits        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+🌙 Night                  2863 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1311 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Tuesday                  1504 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Wednesday                1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Thursday                 1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Friday                   1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Saturday                 1279 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Sunday                   1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     19 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Markdown                 12 hrs 44 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+TypeScript               6 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   6 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Other                    6 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+
+🔥 Editors: 
+OpenCode                 31 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   41.88 % 
+VS Code                  20 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Opencode Cli             12 hrs 13 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Codex Vscode             8 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+IntelliJ IDEA            3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 72 hrs 27 mins (96.44%)
+
+✍️ 133,606 lines written by AI, 604 lines written by hand (99.55% AI-written)
+
+🔤 85,403,408 Input Tokens, 17,218,949 Output Tokens
+
+💵 $2365.34 Estimated AI Cost This Week
+
+🧠 132 AI Sessions, 724 AI Prompts
+
+Opencode-Cli             51,176 lines        ████████████████████████░   94.61 % 
+GPT                      2,904 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.55% of written lines came from AI
+📄 Detailed Prompter — average 1,144 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.13% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -61,7 +126,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:10:54 UTC
+ Last Updated on 17/09/2026 04:32:01 UTC
 <!--END_SECTION:waka-->
 
 
