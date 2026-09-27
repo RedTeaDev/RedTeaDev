@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C487%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C503%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C284%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C300%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 > 📦 169.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,336 Contributions in the Year 2026
+> 🏆 1,339 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,85 +48,20 @@ Here are some ideas to get you started:
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1658 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-🌆 Daytime                1822 commits        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌃 Evening                1908 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-🌙 Night                  2864 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1311 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Tuesday                  1504 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Wednesday                1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Thursday                 1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Friday                   1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 1285 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Sunday                   1009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     30 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.87 % 
-Other                    9 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Markdown                 6 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-XML                      5 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-PowerShell               3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-
-🔥 Editors: 
-OpenCode                 25 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   40.23 % 
-Opencode Cli             23 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
-VS Code                  6 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Codex Vscode             5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-IntelliJ IDEA            2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 55 hrs 55 mins (87.33%)
-
-✍️ 18,724 lines written by AI, 152 lines written by hand (99.19% AI-written)
-
-🔤 27,671,584 Input Tokens, 3,425,683 Output Tokens
-
-💵 $276.26 Estimated AI Cost This Week
-
-🧠 30 AI Sessions, 208 AI Prompts
-
-GPT                      11,350 lines        █████████████████████░░░░   84.67 % 
-Opencode-Cli             1,984 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Codex-Vscode             71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📄 Detailed Prompter — average 511 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.1% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Python                   22 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
 
 
- Last Updated on 27/09/2026 16:49:20 UTC
+ Last Updated on 27/09/2026 21:14:50 UTC
 <!--END_SECTION:waka-->
 
 
