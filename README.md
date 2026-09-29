@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C503%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C513%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C300%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C310%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,42 +75,41 @@ Sunday                   1009 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     37 hrs 9 mins       ██████████████░░░░░░░░░░░   55.60 % 
-Markdown                 6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Other                    6 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-XML                      3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-TypeScript               3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Java                     36 hrs 5 mins       ██████████████░░░░░░░░░░░   57.55 % 
+Other                    6 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+TypeScript               6 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Markdown                 4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-OpenCode                 36 hrs 23 mins      ██████████████░░░░░░░░░░░   54.45 % 
-Opencode Cli             18 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-VS Code                  7 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-IntelliJ IDEA            2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Codex Vscode             2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+OpenCode                 35 hrs 13 mins      ██████████████░░░░░░░░░░░   56.18 % 
+Opencode Cli             22 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
+VS Code                  3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Codex Vscode             2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 36 mins (89.18%)
+⏱ AI Coding Time: 61 hrs 46 mins (98.52%)
 
-✍️ 13,490 lines written by AI, 139 lines written by hand (98.98% AI-written)
+✍️ 14,016 lines written by AI, 72 lines written by hand (99.49% AI-written)
 
-🔤 31,381,868 Input Tokens, 5,655,489 Output Tokens
+🔤 33,588,125 Input Tokens, 5,883,288 Output Tokens
 
-💵 $539.88 Estimated AI Cost This Week
+💵 $549.05 Estimated AI Cost This Week
 
-🧠 128 AI Sessions, 329 AI Prompts
+🧠 132 AI Sessions, 381 AI Prompts
 
-GPT                      16,300 lines        █████████████████████████   99.71 % 
-Opencode-Cli             47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+GPT                      16,987 lines        █████████████████████████   99.72 % 
+Opencode-Cli             47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📄 Detailed Prompter — average 931 characters per prompt
+🤖 AI-Driven — 99.49% of written lines came from AI
+📄 Detailed Prompter — average 963 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +125,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:10:29 UTC
+ Last Updated on 29/09/2026 05:21:27 UTC
 <!--END_SECTION:waka-->
 
 
