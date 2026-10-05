@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C564%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C570%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C365%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C373%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,43 +75,42 @@ Sunday                   1012 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     24 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Markdown                 13 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-JavaScript               9 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-TypeScript               9 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Other                    6 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Java                     15 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Markdown                 12 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+TypeScript               10 hrs 9 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+JavaScript               9 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Other                    9 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🔥 Editors: 
-OpenCode                 22 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-Opencode Cli             21 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-VS Code                  16 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Codex Vscode             12 hrs 45 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Codex CLI                8 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Opencode Cli             17 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Codex Vscode             17 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+VS Code                  16 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+OpenCode                 12 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Codex CLI                12 hrs 3 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 81 hrs 29 mins (98.1%)
+⏱ AI Coding Time: 72 hrs 53 mins (95.89%)
 
-✍️ 41,663 lines written by AI, 109 lines written by hand (99.74% AI-written)
+✍️ 37,848 lines written by AI, 105 lines written by hand (99.72% AI-written)
 
-🔤 32,835,391 Input Tokens, 8,255,763 Output Tokens
+🔤 17,814,356 Input Tokens, 5,010,213 Output Tokens
 
-💵 $1795.50 Estimated AI Cost This Week
+💵 $1808.45 Estimated AI Cost This Week
 
-🧠 209 AI Sessions, 528 AI Prompts
+🧠 113 AI Sessions, 409 AI Prompts
 
-GPT                      11,070 lines        █████████░░░░░░░░░░░░░░░░   35.64 % 
-Codex-Vscode             10,717 lines        █████████░░░░░░░░░░░░░░░░   34.50 % 
-Opencode-Cli             9,273 lines         ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      11,532 lines        █████████░░░░░░░░░░░░░░░░   36.45 % 
+Codex-Vscode             10,878 lines        █████████░░░░░░░░░░░░░░░░   34.38 % 
+Opencode-Cli             9,226 lines         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 1,632 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.72% of written lines came from AI
+📚 Verbose Prompter — average 1,688 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +126,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:12:06 UTC
+ Last Updated on 05/10/2026 05:10:29 UTC
 <!--END_SECTION:waka-->
 
 
