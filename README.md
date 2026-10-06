@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C570%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C575%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C373%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C379%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,42 +75,42 @@ Sunday                   1012 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     15 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Markdown                 12 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-TypeScript               10 hrs 9 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JavaScript               9 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Other                    9 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Java                     15 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Markdown                 12 hrs 13 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Other                    11 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+JavaScript               9 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+TypeScript               7 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 🔥 Editors: 
-Opencode Cli             17 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Codex Vscode             17 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-VS Code                  16 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-OpenCode                 12 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Codex CLI                12 hrs 3 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Codex Vscode             22 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   30.86 % 
+VS Code                  16 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Opencode Cli             13 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Codex CLI                12 hrs 56 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+OpenCode                 6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 72 hrs 53 mins (95.89%)
+⏱ AI Coding Time: 69 hrs 23 mins (95.71%)
 
-✍️ 37,848 lines written by AI, 105 lines written by hand (99.72% AI-written)
+✍️ 46,945 lines written by AI, 97 lines written by hand (99.79% AI-written)
 
-🔤 17,814,356 Input Tokens, 5,010,213 Output Tokens
+🔤 15,769,389 Input Tokens, 6,111,054 Output Tokens
 
-💵 $1808.45 Estimated AI Cost This Week
+💵 $1828.07 Estimated AI Cost This Week
 
-🧠 113 AI Sessions, 409 AI Prompts
+🧠 166 AI Sessions, 414 AI Prompts
 
-GPT                      11,532 lines        █████████░░░░░░░░░░░░░░░░   36.45 % 
-Codex-Vscode             10,878 lines        █████████░░░░░░░░░░░░░░░░   34.38 % 
-Opencode-Cli             9,226 lines         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+GPT                      13,540 lines        ██████████░░░░░░░░░░░░░░░   39.90 % 
+Codex-Vscode             11,171 lines        ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Opencode-Cli             9,226 lines         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📚 Verbose Prompter — average 1,688 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📚 Verbose Prompter — average 2,435 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +126,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 23:59:41 UTC
+ Last Updated on 06/10/2026 06:07:13 UTC
 <!--END_SECTION:waka-->
 
 
