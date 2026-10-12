@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C617%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C628%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C425%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C437%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,40 +75,40 @@ Sunday                   1020 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Markdown                 12 hrs 40 mins      █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Python                   11 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-TypeScript               10 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Java                     8 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+TypeScript               15 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Other                    14 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Markdown                 13 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Python                   11 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Java                     6 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-Codex Vscode             54 hrs 39 mins      ████████████████████░░░░░   78.48 % 
-VS Code                  10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Codex CLI                4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Codex Vscode             55 hrs 27 mins      ███████████████████░░░░░░   77.44 % 
+VS Code                  8 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Codex CLI                7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 60 hrs 18 mins (86.59%)
+⏱ AI Coding Time: 63 hrs 51 mins (89.17%)
 
-✍️ 28,065 lines written by AI, 243 lines written by hand (99.14% AI-written)
+✍️ 29,866 lines written by AI, 242 lines written by hand (99.2% AI-written)
 
-🔤 629,017 Input Tokens, 3,467,185 Output Tokens
+🔤 506,837 Input Tokens, 3,816,108 Output Tokens
 
-💵 $907.75 Estimated AI Cost This Week
+💵 $1451.95 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 296 AI Prompts
+🧠 103 AI Sessions, 265 AI Prompts
 
-GPT                      13,738 lines        █████████████████░░░░░░░░   69.56 % 
-DeepSeek                 5,552 lines         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Codex-Vscode             461 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+GPT                      13,015 lines        ███████████████░░░░░░░░░░   59.35 % 
+DeepSeek                 7,357 lines         ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Codex-Vscode             1,557 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.14% of written lines came from AI
-📚 Verbose Prompter — average 1,903 characters per prompt
+🤖 AI-Driven — 99.2% of written lines came from AI
+📚 Verbose Prompter — average 1,960 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +124,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 21:47:02 UTC
+ Last Updated on 12/10/2026 05:31:22 UTC
 <!--END_SECTION:waka-->
 
 
