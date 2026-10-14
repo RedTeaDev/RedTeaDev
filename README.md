@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C647%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C653%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C462%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C470%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 > 📦 169.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,406 Contributions in the Year 2026
+> 🏆 1,407 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,39 +75,39 @@ Sunday                   1020 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Python                   17 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-TypeScript               17 hrs              █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Other                    16 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Svelte                   4 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Markdown                 18 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+TypeScript               17 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Python                   14 hrs 28 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Other                    14 hrs 3 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Svelte                   4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-Codex Vscode             67 hrs 12 mins      ███████████████████░░░░░░   75.55 % 
-Codex CLI                11 hrs 38 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-VS Code                  10 hrs 7 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Codex Vscode             53 hrs 38 mins      █████████████████░░░░░░░░   66.55 % 
+Codex CLI                18 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+VS Code                  8 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 81 hrs 1 min (91.06%)
+⏱ AI Coding Time: 73 hrs 35 mins (91.3%)
 
-✍️ 24,752 lines written by AI, 243 lines written by hand (99.03% AI-written)
+✍️ 20,534 lines written by AI, 238 lines written by hand (98.85% AI-written)
 
-🔤 495,670 Input Tokens, 3,666,197 Output Tokens
+🔤 498,167 Input Tokens, 3,408,563 Output Tokens
 
-💵 $2333.93 Estimated AI Cost This Week
+💵 $2340.14 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 307 AI Prompts
+🧠 42 AI Sessions, 272 AI Prompts
 
-GPT                      14,020 lines        ██████████████░░░░░░░░░░░   55.34 % 
-DeepSeek                 9,709 lines         ██████████░░░░░░░░░░░░░░░   38.32 % 
-Codex-Vscode             1,607 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+DeepSeek                 9,709 lines         ████████████░░░░░░░░░░░░░   46.06 % 
+GPT                      9,421 lines         ███████████░░░░░░░░░░░░░░   44.69 % 
+Codex-Vscode             1,950 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.03% of written lines came from AI
-📄 Detailed Prompter — average 647 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+🤖 AI-Driven — 98.85% of written lines came from AI
+📄 Detailed Prompter — average 579 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 1.17% of changed lines were hand-edited
 ```
 
@@ -124,7 +124,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 17:01:41 UTC
+ Last Updated on 14/10/2026 21:32:52 UTC
 <!--END_SECTION:waka-->
 
 
