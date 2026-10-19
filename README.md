@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C661%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C666%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C483%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C492%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 > 📦 170.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,420 Contributions in the Year 2026
+> 🏆 1,421 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,41 +75,41 @@ Sunday                   1025 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Markdown                 11 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-TypeScript               8 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Python                   7 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Svelte                   4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Other                    18 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   32.96 % 
+Markdown                 11 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Python                   7 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+JavaScript               4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Java                     4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 🔥 Editors: 
-Codex Vscode             31 hrs 18 mins      ██████████████░░░░░░░░░░░   54.01 % 
-Codex CLI                25 hrs 1 min        ███████████░░░░░░░░░░░░░░   43.16 % 
-VS Code                  1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Codex Vscode             26 hrs 14 mins      ████████████░░░░░░░░░░░░░   46.08 % 
+Codex CLI                25 hrs 50 mins      ███████████░░░░░░░░░░░░░░   45.37 % 
+VS Code                  4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 46 mins (99.66%)
+⏱ AI Coding Time: 54 hrs 45 mins (96.16%)
 
-✍️ 12,161 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 9,222 lines written by AI, 3 lines written by hand (99.97% AI-written)
 
-🔤 445,575 Input Tokens, 2,329,923 Output Tokens
+🔤 477,605 Input Tokens, 1,700,954 Output Tokens
 
-💵 $1601.23 Estimated AI Cost This Week
+💵 $1433.17 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 189 AI Prompts
+🧠 37 AI Sessions, 168 AI Prompts
 
-GPT                      6,032 lines         ████████████░░░░░░░░░░░░░   49.09 % 
-DeepSeek                 4,161 lines         ████████░░░░░░░░░░░░░░░░░   33.86 % 
-Codex-Vscode             2,095 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+GPT                      5,570 lines         ███████████████░░░░░░░░░░   61.78 % 
+DeepSeek                 2,356 lines         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Codex-Vscode             1,090 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 624 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 807 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -125,7 +125,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 20:27:52 UTC
+ Last Updated on 19/10/2026 04:14:38 UTC
 <!--END_SECTION:waka-->
 
 
