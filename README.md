@@ -75,42 +75,42 @@ Sunday                   1031 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   36.85 % 
-Java                     15 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Other                    8 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-TypeScript               3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-JavaScript               3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Markdown                 23 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   41.41 % 
+Java                     15 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Other                    5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+JavaScript               3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Python                   2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-Codex Vscode             43 hrs 36 mins      ████████████████░░░░░░░░░   65.66 % 
-Codex CLI                13 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-VS Code                  8 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Codex Vscode             43 hrs 36 mins      ███████████████████░░░░░░   77.10 % 
+Codex CLI                7 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+VS Code                  5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 63 hrs 43 mins (95.93%)
+⏱ AI Coding Time: 56 hrs 20 mins (99.62%)
 
-✍️ 30,010 lines written by AI, 7 lines written by hand (99.98% AI-written)
+✍️ 28,299 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 316,347 Input Tokens, 2,620,474 Output Tokens
+🔤 248,327 Input Tokens, 2,464,019 Output Tokens
 
-💵 $588.16 Estimated AI Cost This Week
+💵 $467.01 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 269 AI Prompts
+🧠 26 AI Sessions, 226 AI Prompts
 
-GPT                      27,602 lines        ██████████████████████░░░   89.66 % 
-Codex-Vscode             3,052 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-DeepSeek                 100 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-MiMo                     31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+GPT                      27,602 lines        ████████████████████████░   95.17 % 
+Codex-Vscode             1,271 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+DeepSeek                 100 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+MiMo                     31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 705 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 661 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +126,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:36:15 UTC
+ Last Updated on 27/10/2026 04:37:33 UTC
 <!--END_SECTION:waka-->
 
 
