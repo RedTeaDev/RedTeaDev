@@ -48,6 +48,70 @@ Here are some ideas to get you started:
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1666 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+🌆 Daytime                1856 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+🌃 Evening                1913 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+🌙 Night                  2889 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1310 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Tuesday                  1485 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Wednesday                1060 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Thursday                 1062 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Friday                   1109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 1268 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Sunday                   1030 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 15 hrs 18 mins      █████████████░░░░░░░░░░░░   52.93 % 
+Java                     10 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.00 % 
+Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+PowerShell               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+
+🔥 Editors: 
+Codex Vscode             24 hrs 30 mins      █████████████████████░░░░   84.77 % 
+Codex CLI                2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+VS Code                  1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 42 mins (99.29%)
+
+✍️ 13,962 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 136,747 Input Tokens, 1,238,906 Output Tokens
+
+💵 $326.96 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 119 AI Prompts
+
+GPT                      12,880 lines        ███████████████████████░░   90.46 % 
+Codex-Vscode             1,227 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+DeepSeek                 100 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+MiMo                     31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 589 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -61,7 +125,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 05:22:18 UTC
+ Last Updated on 29/10/2026 12:47:16 UTC
 <!--END_SECTION:waka-->
 
 
