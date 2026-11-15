@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C815%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C815%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C664%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C665%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.26%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,41 +75,41 @@ Sunday                   1061 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       49 hrs 11 mins      █████████████░░░░░░░░░░░░   50.12 % 
-Markdown                 25 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Other                    14 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-TypeScript               2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Python                   2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Go                       48 hrs 37 mins      ██████████████░░░░░░░░░░░   55.28 % 
+Markdown                 24 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Other                    9 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+TypeScript               2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Svelte                   1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Codex Vscode             92 hrs 47 mins      ████████████████████████░   94.56 % 
-Codex CLI                3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Pi                       1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Codex Vscode             83 hrs 2 mins       ████████████████████████░   94.41 % 
+Codex CLI                2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Pi                       1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 96 hrs 38 mins (98.49%)
+⏱ AI Coding Time: 85 hrs 58 mins (97.75%)
 
-✍️ 78,760 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 74,276 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 390,578 Input Tokens, 5,343,541 Output Tokens
+🔤 10,907,379 Input Tokens, 4,870,851 Output Tokens
 
-💵 $1775.71 Estimated AI Cost This Week
+💵 $1695.94 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 167 AI Prompts
+🧠 77 AI Sessions, 128 AI Prompts
 
-GPT                      78,822 lines        ████████████████████████░   97.73 % 
-Codex-Vscode             1,636 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-DeepSeek                 192 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+GPT                      75,508 lines        █████████████████████████   99.53 % 
+Codex-Vscode             235 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+OMP                      68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+DeepSeek                 51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 572 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 718 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -126,7 +126,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 22:15:53 UTC
+ Last Updated on 15/11/2026 05:56:57 UTC
 <!--END_SECTION:waka-->
 
 
