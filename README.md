@@ -115,17 +115,17 @@ DeepSeek                 0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Java                     15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   24 repos            ████████░░░░░░░░░░░░░░░░░   30.38 % 
+TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Java                     15 repos            █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
 
 
- Last Updated on 19/11/2026 15:37:30 UTC
+ Last Updated on 20/11/2026 00:32:51 UTC
 <!--END_SECTION:waka-->
 
 
