@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedTeaDev)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C817%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C818%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C665%20hrs%2027%20mins-blue?style=flat)
 
@@ -75,39 +75,20 @@ Sunday                   1055 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    34 hrs 25 mins      ████████████████████████░   94.30 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Go                       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    46 hrs 8 mins       ████████████████████████░   94.45 % 
+Go                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Markdown                 54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Pi                       36 hrs 1 min        █████████████████████████   98.67 % 
-Codex CLI                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Pi                       48 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (1.33%)
-
-✍️ 68 lines written by AI, 1,308 lines written by hand (4.94% AI-written)
-
-🔤 10,654,846 Input Tokens, 25,456 Output Tokens
-
-💵 $71.82 Estimated AI Cost This Week
-
-🧠 56 AI Sessions, 8 AI Prompts
-
-GPT                      156 lines           █████████████████░░░░░░░░   69.64 % 
-OMP                      68 lines            ████████░░░░░░░░░░░░░░░░░   30.36 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.94% of written lines came from AI
-📄 Detailed Prompter — average 1,264 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 95.66% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +104,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 19:01:45 UTC
+ Last Updated on 22/11/2026 06:10:45 UTC
 <!--END_SECTION:waka-->
 
 
